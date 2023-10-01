@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\github.push\metamod-source\samples\s2_sample_mm\sample_mm.cpp">
+    <ClCompile Include="..\..\sample_mm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\github.push\metamod-source\samples\s2_sample_mm\sample_mm.h">
+    <ClInclude Include="..\..\sample_mm.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
