@@ -1,0 +1,85 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  sample_mm.cpp
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\eiface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\dbg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\commonmacros.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\xbox_codeline_defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\dbgflag.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\icommandline.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\win32consoleio.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\utlvector.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memalloc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\mathlib.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\vector2d.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\math_pfns.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\utlblockmemory.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\appframework\IAppSystem.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\interfaces\interfaces.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\edict.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\cmodel.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\trace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\entityhandle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\const.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\ihandleentity.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\bspflags.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\vcollide.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\gametrace.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\ispatialpartition.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\iserverentity.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\iserverunknown.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\string_t.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\globalvars_base.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\engine\ICollideable.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\iservernetworkable.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\bitvec.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\bspfile.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\bumpvects.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\compressed_light_cube.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\zip_uncompressed.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\mathlib\vplane.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\engine\ivmodelinfo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\soundflags.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\utlmap.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\utlrbtree.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\utlfixedmemory.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\memdbgoff.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\steam\steamclientpublic.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\steam\steamuniverse.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\igameevents.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\igameevents.h(25,19): warning C4099: “CEntityIndex”: 类型名称以前使用“struct”现在使用的是“class”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\eiface.h(114,8): message : 参见“CEntityIndex”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\iserver.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\inetmsghandler.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\checksum_crc.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\engine\IEngineService.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 ..\..\out\sample_mm.lib 和对象 ..\..\out\sample_mm.exp
+sample_mm.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl ConCommand::~ConCommand(void)" (??1ConCommand@@QEAA@XZ)
+sample_mm.obj : error LNK2001: 无法解析的外部符号 "public: __cdecl ConCommand::ConCommand(class ConCommandRefAbstract *,char const *,void (__cdecl*)(class CCommandContext const &,class CCommand const &),char const *,__int64,int (__cdecl*)(char const *,class CUtlVector<class CUtlString,class CUtlMemory<class CUtlString,int> > &))" (??0ConCommand@@QEAA@PEAVConCommandRefAbstract@@PEBDP6AXAEBVCCommandContext@@AEBVCCommand@@@Z1_JP6AH1AEAV?$CUtlVector@VCUtlString@@V?$CUtlMemory@VCUtlString@@H@@@@@Z@Z)
+..\..\out\sample_mm.dll : fatal error LNK1120: 2 个无法解析的外部命令

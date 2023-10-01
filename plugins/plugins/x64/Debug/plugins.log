@@ -1,0 +1,198 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  sample_mm.cpp
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\eiface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier1\convar.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\dbg.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(707,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(707,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(707,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(720,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(720,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(720,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,64): error C3646: “FMTFUNCTION”: 未知重写说明符
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,75): error C2059: 语法错误:“(”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,77): error C2059: 语法错误:“常数”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(726,82): error C2059: 语法错误:“)”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,13): error C2144: 语法错误:“unsigned long”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1076,13): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1076,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1076,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1087,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1087,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1087,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1088,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1088,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1088,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1092,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1092,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1092,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1094,20): error C2144: 语法错误:“double”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1094,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1094,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1095,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1095,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1095,20): error C2146: 语法错误: 缺少“;”(在标识符“uint32”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1096,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1096,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1096,20): error C2146: 语法错误: 缺少“;”(在标识符“uint64”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1100,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1100,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1100,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1103,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1103,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1103,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1106,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1106,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1106,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1109,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1109,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1109,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1113,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1113,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1113,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1115,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1115,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1115,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1117,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1117,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1117,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,28): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,74): error C3646: “FMTFUNCTION”: 未知重写说明符
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,85): error C2059: 语法错误:“(”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,87): error C2059: 语法错误:“常数”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1119,92): error C2059: 语法错误:“)”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1175,20): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1175,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1175,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1182,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1182,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1182,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1183,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1183,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1183,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1184,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1184,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1184,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1189,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1189,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1189,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1190,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1190,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1190,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1197,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1197,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1197,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1202,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1202,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1202,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1206,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1206,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1206,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1212,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1212,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1212,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1217,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1217,24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1217,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1219,20): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1219,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1219,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1233,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1233,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1233,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1438,20): error C2144: 语法错误:“bool”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1438,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1438,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1494,20): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1494,25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1494,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1535,36): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1535,1): error C2086: “int DLL_IMPORT”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(706,1): message : 参见“DLL_IMPORT”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1535,20): error C2146: 语法错误: 缺少“;”(在标识符“PlatOSVersion_t”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1551,13): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1551,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1551,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1555,13): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1555,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1555,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1558,13): error C2144: 语法错误:“void”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1558,18): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1558,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1620,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1620,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1620,13): error C2146: 语法错误: 缺少“;”(在标识符“uint32”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1621,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1621,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1624,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1624,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1624,13): error C2146: 语法错误: 缺少“;”(在标识符“uint64”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1625,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1625,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1628,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1628,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1628,13): error C2146: 语法错误: 缺少“;”(在标识符“uint32”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1629,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1629,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1632,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1632,1): error C2086: “int FORCEINLINE”: 重定义
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1071,1): message : 参见“FORCEINLINE”的声明
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1632,13): error C2146: 语法错误: 缺少“;”(在标识符“uint64”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1633,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\platform.h(1633,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_on.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\commonmacros.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\valve_off.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\xbox_codeline_defines.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\basetypes.h(103,13): error C2144: 语法错误:“float”的前面应有“;”
+C:\Users\Administrator\Desktop\github.push\hl2sdk\public\tier0\basetypes.h(103,19): fatal  error C1003: 错误计数超过 100；正在停止编译
