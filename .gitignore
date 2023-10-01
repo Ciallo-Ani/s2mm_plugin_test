@@ -5,3 +5,12 @@
 *.ipch
 *.log
 *.tlog
+*.log
+*.lastbuildstate
+plugins/plugins/x64/Debug/plugins.tlog/unsuccessfulbuild
+*.recipe
+*.obj
+*.iobj
+*.dll
+*.ilk
+*.pdb
