@@ -1,8 +1,7 @@
+*\.vs
 *.vsidx
 *.suo
 *.*db*
 *.ipch
 *.log
 *.tlog
-*.opendb
-*.log
