@@ -50,7 +50,6 @@ CGlobalVars *GetGameGlobals()
 // Currently unavailable, requires hl2sdk work!
 ConVar sample_cvar("sample_cvar", "42", 0);
 
-
 CON_COMMAND_F(sample_command, "Sample command", FCVAR_NONE)
 {
 	META_CONPRINTF( "Sample command called by %d. Command: %s\n", context.GetPlayerSlot(), args.GetCommandString() );
@@ -86,7 +85,7 @@ bool SamplePlugin::Load(PluginId id, ISmmAPI *ismm, char *error, size_t maxlen, 
 	META_CONPRINTF( "All hooks started!\n" );
 
 	g_pCVar = icvar;
-	//ConVar_Register( FCVAR_RELEASE | FCVAR_CLIENT_CAN_EXECUTE | FCVAR_GAMEDLL );
+	ConVar_Register( FCVAR_RELEASE | FCVAR_CLIENT_CAN_EXECUTE | FCVAR_GAMEDLL );
 
 	return true;
 }
